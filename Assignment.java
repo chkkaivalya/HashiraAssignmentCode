@@ -144,6 +144,13 @@ public class PolynomialSolver {
 
 
 Ouput:
+    TestCase 1:
+    Polynomial coefficients:
+a0 = 28.000000
+a1 = -11.000000
+a2 = 1.0 (assumed)
+
+    Testcase 2:
 Polynomial coefficients:
 a0 = 2.555330e+105
 a1 = -2.592353e+90
